@@ -1,4 +1,4 @@
-A beginner-friendly guide to effective AI prompt engineering for students, developers, and productivity enthusiasts.
+-> A beginner-friendly guide to effective AI prompt engineering for students, developers, and productivity enthusiasts.
 
  
  # 🤖 AI Prompt Library
