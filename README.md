@@ -1,6 +1,7 @@
-> A beginner-friendly guide to effective AI prompt engineering for students, developers, and productivity enthusiasts.
->
-> # 🤖 AI Prompt Library
+A beginner-friendly guide to effective AI prompt engineering for students, developers, and productivity enthusiasts.
+
+ 
+ # 🤖 AI Prompt Library
 
 A collection of useful AI prompts for students, developers, and productivity.
 
