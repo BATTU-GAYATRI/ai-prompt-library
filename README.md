@@ -50,3 +50,77 @@ Factorial of 5:
 
 ## 🚀 About
 This project helps users use AI tools effectively with structured prompts.
+
+---
+
+# 🎓 Best Prompts for Students
+
+## 📚 Notes & Summaries
+### Prompt:
+Summarize this chapter into short notes for exam preparation.
+
+### Why Useful:
+Helps students revise quickly before exams.
+
+---
+
+## 🧠 Concept Understanding
+### Prompt:
+Explain this topic in simple terms with real-life examples.
+
+### Why Useful:
+Makes difficult concepts easier to understand.
+
+---
+
+## ❓ Quiz Preparation
+### Prompt:
+Generate 10 MCQs with answers from this topic.
+
+### Why Useful:
+Useful for self-testing and practice.
+
+---
+
+## ⏳ Last-Minute Revision
+### Prompt:
+Give me a 5-minute quick revision of this topic.
+
+### Why Useful:
+Helps during last-minute preparation.
+
+---
+
+## 💻 Coding Help
+### Prompt:
+Debug this Java code and explain the mistake step-by-step.
+
+### Why Useful:
+Improves coding and debugging skills.
+
+---
+
+## 📅 Study Planning
+### Prompt:
+Create a 7-day study timetable for my exams.
+
+### Why Useful:
+Helps students manage time effectively.
+
+---
+
+## 📝 Assignment Help
+### Prompt:
+Help me structure an assignment on [topic] with headings and key points.
+
+### Why Useful:
+Makes assignment writing easier and organized.
+
+---
+
+## 🎯 Interview Preparation
+### Prompt:
+Ask me technical interview questions for Java beginners.
+
+### Why Useful:
+Useful for placements and practice interviews.
